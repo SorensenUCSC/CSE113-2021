@@ -4,7 +4,7 @@ layout: single
 ---
 
 
-### Welcome to **CSE211:** _Compiler Design_, Fall Quarter at UCSC!
+### Welcome to **CSE113:** _Parallel and Concurrent Programming_, Spring 2021 Quarter at UCSC!
 
 - **Instructor:** [Tyler Sorensen](https://users.soe.ucsc.edu/~tsorensen/)
 - **Time:** Tuesdays and Thursdays: 1:30 - 3:05 pm
