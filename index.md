@@ -1,15 +1,18 @@
 ---
-title: "Distributed Systems"
+title: "Parallel and Concurrent Programming"
 layout: single
 ---
 
-<figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/julia-evans-scenes-from-distributed-systems.jpg" style="border-left: 15px solid white; border-top: 10px solid white;" alt="scenes from distributed systems" />
-  <figcaption>comic by <a href="https://jvns.ca/">Julia Evans</a> (<a href="https://twitter.com/b0rk/status/1056560207562711041">source</a>), used by permission of the author</figcaption>
-</figure>
 
-Welcome to CSE232, fall 2020 edition!
+### Welcome to **CSE211:** _Compiler Design_, Fall Quarter at UCSC!
 
-For more information, read the [first-day-of-class course overview](course-overview.html), then check out the [schedule of topics and readings](schedule.html).
+- **Instructor:** [Tyler Sorensen](https://users.soe.ucsc.edu/~tsorensen/)
+- **Time:** Tuesdays and Thursdays: 1:30 - 3:05 pm
+- **Location:** Anywhere that you are comfortable and have internet! (zoom links will be given over email)
+- **Contact:** \<first name\>.\<last name\>@ucsc.edu
 
-	
+Hello! I'm Tyler and this is my first year as new faculty in the [CSE department](https://www.soe.ucsc.edu/departments/computer-science-and-engineering) of [UCSC](https://www.ucsc.edu/). Welcome to the parallel and concurrent programming course! I never imagined that my first year would be completely virtually; this is a new experience for all of us, and I promise that I'll do my best to make this a fun and engaging class.
+
+In this class you will learn the fundamentals of parallel programming concepts, including: parallel programming models, reasoning about concurrency, and synchronization idioms. Over the last decade, systems have become more and more parallel, from our phones to super computers. Now, nearly every modern device now contains many compute units (e.g. CPUs) that can work together to solve problems more efficiently than individual cores. In this class you learn how to approach parallel programming, from high-level reasoning to concrete implementations. 
+
+_Special Note_: This year has been difficult for many different reasons. I imagine that it will stay difficult for some time. Collegte is hard even in the best of times. Please take care of yourself; support each other; find time for the things you enjoy. Please email me if you don't feel like you are performing at the best of your ability and we can discuss various accomodations.
