@@ -26,15 +26,15 @@ Because this is an upper division class, I do expect a general CS foundation. Fo
 
 This class will be split into 5 modules, each of which are roughly two weeks:
 
-* **Module 1: Intra-Thread Parallelism:** This module will discuss how parallelism can be achieved within a single thread. We will discuss instruction-level parallelism (superscalar and pipeline) and vectorization.
+* **Module 1: Intra-Thread Parallelism** This module will discuss how parallelism can be achieved within a single thread. We will discuss instruction-level parallelism (superscalar and pipeline) and vectorization.
 
-* **Module 1: Thread-Level Parallelims:** This module will go over multi-threaded parallelism. We will discuss do-all parallel loops, interleaving semantics, atomic operations and mutual exclusion. 
+* **Module 2: Thread-Level Parallelims** This module will go over multi-threaded parallelism. We will discuss do-all parallel loops, interleaving semantics, atomic operations and mutual exclusion. 
 
-* **Module 1: Concurrent Data Structures:** This module will discuss concurrent objects and how to reason about them. We will discuss several implementations along with their tradeoffs.
+* **Module 3: Concurrent Data Structures** This module will discuss concurrent objects and how to reason about them. We will discuss several implementations along with their tradeoffs.
 
-* **Module 1: Reasoning about Concurrency:** This module will discuss how to reason about concurrent programs, including memory consistency and liveness. 
+* **Module 4: Reasoning about Concurrency** This module will discuss how to reason about concurrent programs, including memory consistency and liveness. 
  
-* **Module 1: GPU Programming:** This module will discuss GPU programming. We will discuss the SIMT programming model, hierarchical execution, and different architectural considerations when optimizing programs
+* **Module 5: GPU Programming** This module will discuss GPU programming. We will discuss the SIMT programming model, hierarchical execution, and different architectural considerations when optimizing programs
 
 ## Class Format
 
