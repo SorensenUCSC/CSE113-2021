@@ -2,12 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: "Overview"
+title: "Homeworks"
 layout: single
 classes: wide
 ---
-
-# Homeworks
 
 There will be one homework per module. They will be posted at least two weeks before they are due. Each homework is worth 10% of your grade.
 
