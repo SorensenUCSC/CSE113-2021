@@ -35,4 +35,4 @@ _Due: June 1_
 ### Module 5:  GPU Programming
 
 _Will be posted by: June 4_ 
-_Due: Date of the Final
+_Due: Date of the Final_
