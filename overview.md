@@ -9,7 +9,7 @@ classes: wide
 
 ## Class Description
 
-Welcome to CSE 113: Parallel and Concurrent Programming! In this class we will explore one of the most import tools in computer science: the compiler. In particular, we will explore how compiler techniques can aid programmers in making their code more efficient on modern processors. When you leave this class you should be comfortable writing an optimizing (and safety checking) compiler for a simple programming language. We will explore classic topics in static analysis, but also look at modern concepts in automatic parallelization and domain-specific languages.
+Welcome to CSE 113: Parallel and Concurrent Programming! In this class we will explore many aspects of parallel computing, from instruction-level parallelism in seemingly sequential programs, to thread-level parallel programs that can efficiently execute across the many cores of today's multiprocessors. We will learn how to write programs that execute efficiently and correctly in concurrent environments. This class will give you the necessary foundation to solve problems using concurrency: a powerful skillset as today's computers are becoming more and more parallel.
 
 ## Necessary Background
 
