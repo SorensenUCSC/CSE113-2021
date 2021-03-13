@@ -5,3 +5,5 @@ main:
     url: /overview.html
   - title: "Schedule"
     url: /schedule.html
+  - title: "Homeworks"
+    url: /homeworks.html
