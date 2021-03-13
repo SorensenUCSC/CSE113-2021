@@ -13,14 +13,13 @@ Welcome to CSE 113: Parallel and Concurrent Programming! In this class we will e
 
 ## Necessary Background
 
-This class has a prereq of an introductory compiler course. However, because this is a grad course, we will have students from many different undergrad programs. It is difficult to rely on very specific backgrounds. Some compiler class experience will be helpful, but so will classes in related subjects, like programming languages, systems, and parallel programming.
+The listed prerequisite classes are CSE 12 (systems), CSE 101 (data-structures and algorithms, and CSE 120 (architecture). You will need a strong foundation in all of those topics to succeed in this class. In particular: parallel programming is most efficiently executed on parallel hardware: Thus, you will need to understand the fundamentals models of the underlying architectures. Similarly, parallel cooperative is often achieved through parallel data-structures, which have similar specifications and implementations to their sequential counterparts. We will discussing many aspects of the hardware/software interface, as such, you will need experience in a low-level programming lanaguage like C.
 
-Because this is a graduate level class, I do expect a general strong CS foundation. In particular, you should be:
+Because this is an upper division class, I do expect a general CS foundation. For the homeworks, I will assume that you are:
 
-- comfortable using a linux command-line (this is how your assignments will be submitted).
+- comfortable using a linux command-line
 - programming in a high-level language (e.g. Python)
 - programming in a low-level language (e.g. C)
-- a high-level understanding of basic parsing (i.e. regular expressions and context-free grammars)
 - a high-level understanding of parallel programming and computer architecture
 
 ## Class Modules
@@ -91,7 +90,7 @@ please message me and we can make accommodations_
 
 There will be one assignment per module, for a total of 5 homeworks.
 
-_TBA: Resources for homeworks_
+We will host a docker container that includes the necessary environment (compilers, libraries) for the homeworks. You are free to run this docker from your local machine or from a unviversity machine. We will provide a list of university resources in Canvas.
 
 The homeworks will be posted at least 2 weeks before they are due and can be found [here](homeworks.html).
 
