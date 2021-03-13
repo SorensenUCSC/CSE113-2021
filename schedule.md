@@ -49,3 +49,7 @@ _Slides will be uploaded the day after class_
 | Thurs, May 27
 | Tues, June 1
 | Thurs, June 3
+
+## Final
+
+Dates TBA
