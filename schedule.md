@@ -14,7 +14,7 @@ _Unless explicilty mentioned, Readings will refer to The Art of Multiprocessor P
 | Tues, March 30   | Welcome!                       |  | [Overview page](https://sorensenucsc.github.io/CSE113-2021/overview.html)
 | Thurs, April 1   | Arch and Compiler Background   |  | Appendix B
 | Tues, April 6    | Intro to Concurrency           |  | Chapter 1
-| Thurs, April 8   | Instruction Level Parallelism  |  | None
+| Thurs, April 8   | Instruction Level Parallelism  |  | _TBA_
 
 ### Module 2: Mutual Exclusion
 
@@ -29,28 +29,29 @@ _Unless explicilty mentioned, Readings will refer to The Art of Multiprocessor P
 
 | Date             | Topic    | Slides |   Notes
 |------------------|----------|--------|----------------
-| Tues, April 27   
-| Thurs, April 29  
-| Tues, May 4      
-| Thurs, May 6     
+| Tues, April 27   | Principles of Concurrent Objects    | | Chapter 3
+| Thurs, April 29  | Concurrent Queues                   | | Chapter 10
+| Tues, May 4      | Concurrent Stacks                   | | Chapter 11
+| Thurs, May 7     | Use-case: Load Balacing             | | _TBA_
 
 ### Module 4: Reasoning about Concurrency
 
 | Date             | Topic    | Slides |   Notes
 |------------------|----------|--------|----------------
-| Tues, May 11
-| Thurs, May 13
-| Tues, May 18
-| Thurs, May 20
+| Tues, May 11     | Memory Consistency Models                        | | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916)
+| Thurs, May 13    | Fairness and Forward Progress                    | | _TBA_
+| Tues, May 18     | Use-case: Barriers                               | | Chapter 17
+| Thurs, May 20    | Generalizing Atomicity with Transactional Memory | | Chapter 18
 
-### Module 5: GPU Programming
+### Module 5: Advanced Topics
 
 | Date             | Topic    | Slides |   Notes
 |------------------|----------|--------|----------------
-| Tues, May 25
-| Thurs, May 27
-| Tues, June 1
-| Thurs, June 3
+| Tues, May 25     | Reductions and Scans     | _TBA_
+| Thurs, May 27    | GPU Programming 1        | 
+| Tues, June 1     | GPU Programming 2        |
+| Thurs, June 3    | Decoupled Access Execute | Decoupled Access/Execute Computer
+Architectures (https://course.ece.cmu.edu/~ece740/f13/lib/exe/fetch.php?media=p289-smith.pdf)
 
 ## Final
 
