@@ -26,15 +26,15 @@ Because this is an upper division class, I do expect a general CS foundation. Fo
 
 This class will be split into 5 modules, each of which are roughly two weeks:
 
-* **Module 1: Intra-Thread Parallelism** This module will discuss how parallelism can be achieved within a single thread. We will discuss instruction-level parallelism (superscalar and pipeline) and vectorization.
+* **Module 1: Introduction, Background and ILP** This module will introduce the class, provide an architectural refresher and discuss how modern hardware exploits parallelism within a thread (ILP).
 
-* **Module 2: Thread-Level Parallelims** This module will go over multi-threaded parallelism. We will discuss do-all parallel loops, interleaving semantics, atomic operations and mutual exclusion. 
+* **Module 2: Mutual Exclusion** This module will discsuss the fundamental problem of mutual exclusion. We will discuss the theory behind mutual exclusion, how it is implemented in practice, and specialized mutual exclusion objects. 
 
-* **Module 3: Concurrent Data Structures** This module will discuss concurrent objects and how to reason about them. We will discuss several implementations along with their tradeoffs.
+* **Module 3: Concurrent Data Structures** This module will discuss concurrent objects and how to reason about them. We will discuss several implementations and conclude with a use-case about load balancing
 
-* **Module 4: Reasoning about Concurrency** This module will discuss how to reason about concurrent programs, including memory consistency and liveness. 
+* **Module 4: Reasoning about Concurrency** This module will discuss how to reason about concurrent programs, including memory consistency and fairness. 
  
-* **Module 5: GPU Programming** This module will discuss GPU programming. We will discuss the SIMT programming model, hierarchical execution, and different architectural considerations when optimizing programs
+* **Module 5: Heterogenous Parallelism (GPGPU)** This module will discuss heterogenous programming, with a focus on GPGPU programming. We will discuss the SIMT programming model, hierarchical execution, and different architectural considerations when optimizing programs.
 
 ## Class Format
 
