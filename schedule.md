@@ -48,10 +48,9 @@ _Unless explicilty mentioned, Readings will refer to The Art of Multiprocessor P
 | Date             | Topic    | Slides |   Notes
 |------------------|----------|--------|----------------
 | Tues, May 25     | Reductions and Scans     | _TBA_
-| Thurs, May 27    | GPU Programming 1        | 
-| Tues, June 1     | GPU Programming 2        |
-| Thurs, June 3    | Decoupled Access Execute | Decoupled Access/Execute Computer
-Architectures (https://course.ece.cmu.edu/~ece740/f13/lib/exe/fetch.php?media=p289-smith.pdf)
+| Thurs, May 27    | GPU Programming 1        | CUDA By Example, Chapter 1 
+| Tues, June 1     | GPU Programming 2        | CUDA By Example, Chapter 3-4
+| Thurs, June 3    | Decoupled Access Execute | [Decoupled Access/Execute Computer Architectures](https://course.ece.cmu.edu/~ece740/f13/lib/exe/fetch.php?media=p289-smith.pdf)
 
 ## Final
 
