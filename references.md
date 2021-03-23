@@ -13,5 +13,5 @@ I will update these references as the course progresses with additional resource
 I do not require that you have a physical textbook for this class, however there are some that we will use extensively. Each are available online from the UCSC library.
 
 * The main book we will use is [The Art of Multiprocessor Programming](https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/epaiir/alma991025069492304876).
-* Our two class series on GPU programming will use [CUDA by Example](https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/1kt68tt/alma991025069808004876).
+* For more information on GPU computing, I recommend [CUDA by Example](https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/1kt68tt/alma991025069808004876).
 
