@@ -5,16 +5,18 @@ layout: splash
 
 _Slides will be uploaded the day after class_
 
-### Module 1: Intra-Thread Parallelism
+_Unless explicilty mentioned, Readings will refer to The Art of Multiprocessor Programming, available [online\(https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/epaiir/alma991025069492304876) from the library_
 
-| Date             | Topic    | Slides |   Notes
+### Module 1: Introduction, Background and ILP
+
+| Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Tues, March 30
-| Thurs, April 1
-| Tues, April 6
-| Thurs, April 8
+| Tues, March 30   | Welcome! |        | [Overview page](https://sorensenucsc.github.io/CSE113-2021/overview.html)
+| Thurs, April 1   | Arch and Compiler Background |  | Appendix B
+| Tues, April 6    | Intro to Concurrency | | Chapter 1
+| Thurs, April 8   | Instruction Level Parallelism | | None
 
-### Module 2: Thread-Level Parallelims
+### Module 2: Mutual Exclusion
 
 | Date             | Topic    | Slides |   Notes
 |------------------|----------|--------|----------------
@@ -27,10 +29,10 @@ _Slides will be uploaded the day after class_
 
 | Date             | Topic    | Slides |   Notes
 |------------------|----------|--------|----------------
-| Tues, April 27
-| Thurs, April 29
-| Tues, May 4
-| Thurs, May 6
+| Tues, April 27   |
+| Thurs, April 29  | 
+| Tues, May 4      | 
+| Thurs, May 6     
 
 ### Module 4: Reasoning about Concurrency
 
