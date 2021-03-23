@@ -5,33 +5,33 @@ layout: splash
 
 _Slides will be uploaded the day after class_
 
-_Unless explicilty mentioned, Readings will refer to The Art of Multiprocessor Programming, available [online\(https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/epaiir/alma991025069492304876) from the library_
+_Unless explicilty mentioned, Readings will refer to The Art of Multiprocessor Programming, available [online](https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/epaiir/alma991025069492304876) from the library_
 
 ### Module 1: Introduction, Background and ILP
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Tues, March 30   | Welcome! |        | [Overview page](https://sorensenucsc.github.io/CSE113-2021/overview.html)
-| Thurs, April 1   | Arch and Compiler Background |  | Appendix B
-| Tues, April 6    | Intro to Concurrency | | Chapter 1
-| Thurs, April 8   | Instruction Level Parallelism | | None
+| Tues, March 30   | Welcome!                       |  | [Overview page](https://sorensenucsc.github.io/CSE113-2021/overview.html)
+| Thurs, April 1   | Arch and Compiler Background   |  | Appendix B
+| Tues, April 6    | Intro to Concurrency           |  | Chapter 1
+| Thurs, April 8   | Instruction Level Parallelism  |  | None
 
 ### Module 2: Mutual Exclusion
 
 | Date             | Topic    | Slides |   Notes
 |------------------|----------|--------|----------------
-| Tues, April 13
-| Thurs, April 15
-| Tues, April 20
-| Thurs, April 22
+| Tues, April 13   | Principles of Mutual Exclusion | | Chapter 2
+| Thurs, April 15  | Mutual Exclusion in Practice 1 | | Chapter 7 - 7.5
+| Tues, April 20   | Mutual Exclusion in Practice 2 | | Chapter 7.5 - end
+| Thurs, April 22  | Specialized Mutual Exclusion   | | Chapter 8
 
 ### Module 3: Concurrent Data Structures
 
 | Date             | Topic    | Slides |   Notes
 |------------------|----------|--------|----------------
-| Tues, April 27   |
-| Thurs, April 29  | 
-| Tues, May 4      | 
+| Tues, April 27   
+| Thurs, April 29  
+| Tues, May 4      
 | Thurs, May 6     
 
 ### Module 4: Reasoning about Concurrency
