@@ -13,14 +13,14 @@ Welcome to CSE 113: Parallel and Concurrent Programming! In this class we will e
 
 ## Necessary Background
 
-The listed prerequisite classes are CSE 12 (systems), CSE 101 (data-structures and algorithms), and CSE 120 (architecture). You will need a strong foundation in all of those topics to succeed in this class. In particular: parallel programming is most efficiently executed on parallel hardware: Thus, you will need to understand the fundamentals models of the underlying architectures. Similarly, parallel cooperative is often achieved through parallel data-structures, which have similar specifications and implementations to their sequential counterparts. We will discussing many aspects of the hardware/software interface, as such, you will need experience in a low-level programming lanaguage like C.
+The listed prerequisite classes are CSE 12 (systems), CSE 101 (data-structures and algorithms), and recommended CSE 120 (architecture). You will need some foundation in all of those topics to succeed in this class. In particular: parallel cooperative is often achieved through parallel data-structures, which have similar specifications and implementations to their sequential counterparts. We will discussing many aspects of the hardware/software interface, as such, you will need experience in a low-level programming lanaguage like C. Parallel programming is most efficiently executed on parallel hardware: Thus, you will need to understand shared resources (e.g. the memory hierarchy) of the underlying architectures. 
 
 Because this is an upper division class, I do expect a general CS foundation. For the homeworks, I will assume that you are:
 
 - comfortable using a linux command-line
 - programming in a high-level language (e.g. Python)
 - programming in a low-level language (e.g. C)
-- a high-level understanding of parallel programming and computer architecture
+- a high-level understanding of computer architecture
 
 ## Class Modules
 
