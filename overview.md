@@ -58,8 +58,7 @@ There will be an official forum in the Canvas that you can use to
 discuss course topics and ask questions. At this time, I do not plan to host any other
 official forum for the class (e.g.\ slack or discord). Feel free to
 organize yourselves. If you do so, I only ask that you make an effort
-to include all your classmates and adhere to academic integrity (and
-also forward me any fun pictures of pets that might get posted).
+to include all your classmates and adhere to academic integrity.
 
 ## Attendance
 
