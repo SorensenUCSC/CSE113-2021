@@ -32,7 +32,7 @@ _Unless explicilty mentioned, Readings will refer to The Art of Multiprocessor P
 | Tues, April 27   | Principles of Concurrent Objects    | | Chapter 3
 | Thurs, April 29  | Concurrent Queues                   | | Chapter 10
 | Tues, May 4      | Concurrent Stacks                   | | Chapter 11
-| Thurs, May 7     | Use-case: Load Balacing             | | Class Slides
+| Thurs, May 6     | Use-case: Load Balacing             | | Class Slides
 
 ### Module 4: Reasoning about Concurrency
 
