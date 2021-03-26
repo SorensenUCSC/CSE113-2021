@@ -38,7 +38,7 @@ This class will be split into 5 modules, each of which are roughly two weeks:
 
 ## Class Format
 
-Each class is 85 minutes. I will plan to have the zoom
+Each class is 95 minutes. I will plan to have the zoom
 room open 15 minutes before class starts and 15 minutes
 afterwards. You can use this time to ask questions or socialize with
 your classmates.
