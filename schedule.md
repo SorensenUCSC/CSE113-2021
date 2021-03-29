@@ -54,4 +54,4 @@ _Unless explicilty mentioned, Readings will refer to The Art of Multiprocessor P
 
 ## Final
 
-Dates TBA
+Our final is scheduled for Wednesday, June 9. If you would like to block off specific hours, our scheduled time is 4 PM to 7 PM
