@@ -108,10 +108,12 @@ midterm will be worth as much as a single homework assignment
 (~10%). The final will be worth 30%
 
 You will get the test as pdf worksheet and have 2 days to complete it. I
-will design the tests to take ~85 minutes, the time of a class. You
+will design the tests to take ~120 minutes, a little longer than the time of a class. You
 are free to consult notes, books, or the internet. While the test is active, you are not allowed to discuss the test with another person (either in the class or online). For example, you *can* google concepts that are on the test. You *cannot* post a test question to stackoverflow.
 
-_a note on timing_: my tests are designed to take ~85 minutes *if* they were given in-person. In practice, students take much longer on take-home tests because you can spend time validating answers and less time studying before hand. Because of this, many students spend much longer on take-home tests. Please consider this when budgeting time.
+_a note on timing_: my tests are designed to take 120 minutes *if* they were given in-person. In practice, students take much longer on take-home tests because you can spend time validating answers and less time studying before hand. Because of this, many students spend much longer on take-home tests. Please consider this when budgeting time.
+
+Please note our final is scheduled for Wednesday, June 9
 
 ## Grade Breakdown
 
