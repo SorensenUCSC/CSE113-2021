@@ -60,17 +60,17 @@ official forum for the class (e.g.\ slack or discord). Feel free to
 organize yourselves. If you do so, I only ask that you make an effort
 to include all your classmates and adhere to academic integrity.
 
-## Attendance
+## Quiz/Attendence
 
 This is special topics class, and as such, live discussions will be a
 valuable part of the learning experience. I expect you to
 make an effort to attend the live broadcast of this class on
 zoom. **Attendance will be 10% of your grade**. I will upload
 recordings of the class to canvas, but this is not a substitute for
-attendance. I will take role at the beginning of each class.
+attendance. Attendence will be taken through a small quiz given during the lecture.
 
 Please message me if you will miss a lecture to avoid losing
-attendance credit.
+attendance/quiz credit.
 
 If the normally scheduled date and time will be an issue for you,
 please let me know ASAP.
@@ -81,17 +81,28 @@ UC Santa Cruz is committed to creating an academic environment that supports its
 
 ## Office Hours:
 
-Office hours will be 3 - 5 pm on Wednesdays. The Zoom link can be
-found on Canvas.
+Between the instructor (Tyler) and the TAs, we will aim to have office hours _daily_. We have tried to spread them out between AM hours and PM hours to try and accomodate as many potential time zones as possible.
+
+* Monday: TA office hour from 10:30 AM - 11:30 AM
+* Tuesday: TA office hour from 10:30 AM - 11:30 AM
+* Wednesday: Instructor office hour from 3:00 PM - 5:00 PM
+* Thursday: TA office hour from 4:00 PM - 5:00 PM
+* Friday: TA office hour from 3:00 PM - 4:00 PM
+
+Zoom links can be found on Canvas
 
 Please sign up for a 10 minute slot for office hours. The sign-up sheet can be found on Canvas. Please sign up for only 1 slot at a time. If there is no other student waiting at the end of your slot, you are welcome to stay. If you want to discuss an issue that you think others might also be interested in, please add the issue to the spreadsheet. If you see your issue listed, please add your name and we add more people to the discussion. 
 
 The sign-up sheet is meant to provide fairness; as such I will be strict about keeping to the schedule. Please forgive any abruptness on my end.
 
-TA office hours: TBA
-
 _If you are in a different time zone that makes these hours difficult,
 please message me and we can make accommodations_
+
+## Asynchronous Communication
+
+For any questions outside of office hours: first please consider posting the discussion forum on Canvas. If you have a question, there's a chance another student has the same question. If you have a private question, please email the teaching staff at: `cse113-spring21-teach-group@ucsc.edu`
+
+This alias goes to the instructor and the TA. If you email any of us individually, we may kindly ask you to resend your email to the mailing list. If your question appears to be more appropriate for the discussion forum, we may kindly ask you to post your question there.
 
 ## Homework:
 
@@ -117,7 +128,7 @@ Please note our final is scheduled for Wednesday, June 9
 
 ## Grade Breakdown
 
-- Attendance: 10%
+- Attendance/Quiz: 10%
 - Homeworks: 50% (10% each)
 - Midterm: 10%
 - Final Exam/Project: 30%
