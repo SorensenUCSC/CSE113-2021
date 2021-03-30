@@ -12,8 +12,8 @@ _Unless explicilty mentioned, Readings will refer to The Art of Multiprocessor P
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
 | Tues, March 30   | Welcome!                       |  | [Overview page](https://sorensenucsc.github.io/CSE113-2021/overview.html)
-| Thurs, April 1   | Arch and Compiler Background   |  | Appendix B
-| Tues, April 6    | Intro to Concurrency           |  | Chapter 1
+| Thurs, April 1   | Arch and Compiler Background 1  |  | Appendix B
+| Tues, April 6    | Arch and Compiler Background 2  |  | Appendix B
 | Thurs, April 8   | Instruction Level Parallelism  |  | Class Slides
 
 ### Module 2: Mutual Exclusion
