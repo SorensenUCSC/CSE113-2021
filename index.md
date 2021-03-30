@@ -8,7 +8,7 @@ layout: single
 
 - **Instructor:** [Tyler Sorensen](https://users.soe.ucsc.edu/~tsorensen/)
 - **Time:** Tuesdays and Thursdays: 1:30 - 3:05 pm
-- **Location:** Anywhere that you are comfortable and have internet! (zoom links will be given over email)
+- **Location:** Anywhere that you are comfortable and have internet! (Zoom links can be found on Canvas)
 - **Contact:** \<first name\>.\<last name\>@ucsc.edu
 
 Hello! I'm Tyler and this is my first year as new faculty in the [CSE department](https://www.soe.ucsc.edu/departments/computer-science-and-engineering) of [UCSC](https://www.ucsc.edu/). Welcome to the parallel and concurrent programming course! I never imagined that my first year would be completely virtually; this is a new experience for all of us, and I promise that I'll do my best to make this a fun and engaging class.
