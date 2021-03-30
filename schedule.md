@@ -5,7 +5,7 @@ layout: splash
 
 _Slides will be uploaded the day after class_
 
-_Unless explicilty mentioned, Readings will refer to The Art of Multiprocessor Programming, available [online](https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/epaiir/alma991025069492304876) from the library_
+_Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor Programming, available [online](https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/epaiir/alma991025069492304876) from the library_
 
 ### Module 1: Introduction, Background and ILP
 
