@@ -7,7 +7,7 @@ layout: single
 classes: wide
 ---
 
-There will be one homework per module. They will be posted at least two weeks before they are due. Each homework is worth 10% of your grade.
+There will be one homework per module. They will be posted at least two weeks before they are due. Each homework is worth 10% of your grade. The officially supported way to develop and run your homeworks is using Docker. Instructions for setting up Docker locally are [here](homework-setup.html).
 
 ### Module 1: Intra-Thread Parallelism
 
