@@ -11,7 +11,7 @@ There will be one homework per module. They will be posted at least two weeks be
 
 ### Module 1: Intra-Thread Parallelism
 
-_Will be posted by: April 8_ 
+Homework specification is [here](homeworks/CSE131Spring2021_assignment1.pdf)
 _Due: April 20_
 
 ### Module 2: Thread-Level Parallelims
