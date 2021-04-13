@@ -20,7 +20,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Tues, April 13   | Principles of Mutual Exclusion | | Chapter 2
+| Tues, April 13   | Principles of Mutual Exclusion | [slides](lectures/April13.pdf)  | Chapter 2
 | Thurs, April 15  | Mutual Exclusion in Practice 1 | | Chapter 7 - 7.5
 | Tues, April 20   | Mutual Exclusion in Practice 2 | | Chapter 7.5 - end
 | Thurs, April 22  | Specialized Mutual Exclusion   | | Chapter 8
