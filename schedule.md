@@ -22,7 +22,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 |------------------|----------|--------|----------------
 | Tues, April 13   | Principles of Mutual Exclusion | [slides](lectures/April13.pdf)  | Chapter 2
 | Thurs, April 15  | Mutual Exclusion in Practice 1 | [slides](lectures/April15.pdf) | Chapter 7 - 7.5
-| Tues, April 20   | Mutual Exclusion in Practice 2 | | Chapter 7.5 - end
+| Tues, April 20   | Mutual Exclusion in Practice 2 | [slides](lectures/April20.pdf)| Chapter 7.5 - end
 | Thurs, April 22  | Specialized Mutual Exclusion   | | Chapter 8
 
 ### Module 3: Concurrent Data Structures
