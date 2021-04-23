@@ -18,6 +18,7 @@ _Due: April 22_
 ### Module 2: Thread-Level Parallelims
 
 Homework specification is [here](homeworks/CSE113Spring2021_assignment2.pdf)
+
 _Due: May 6_
 
 ### Module 3: Concurrent Data Structures
