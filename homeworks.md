@@ -15,7 +15,7 @@ Homework specification is [here](homeworks/CSE113Spring2021_assignment1.pdf)
 
 _Due: April 22_
 
-### Module 2: Thread-Level Parallelims
+### Module 2: Mutexes
 
 Homework specification is [here](homeworks/CSE113Spring2021_assignment2.pdf)
 
