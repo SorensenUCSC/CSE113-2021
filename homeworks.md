@@ -18,7 +18,7 @@ _Due: April 22_
 ### Module 2: Thread-Level Parallelims
 
 _Will be posted by: April 22_ 
-_Due: May 4_
+_Due: May 6_
 
 ### Module 3: Concurrent Data Structures
 
