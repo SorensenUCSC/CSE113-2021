@@ -112,6 +112,7 @@ We will host a docker container that includes the necessary environment (compile
 
 The homeworks will be posted at least 2 weeks before they are due and can be found [here](homeworks.html).
 
+
 ## Tests:
 
 There will be two asynchronous tests in this course: a midterm and a final. The
@@ -126,12 +127,20 @@ _a note on timing_: my tests are designed to take 120 minutes *if* they were giv
 
 Please note our final is scheduled for Wednesday, June 9
 
+## Late Policy:
+
+Assignments are docked 5% per day late up to 4 days. After that they will no longer be accepted.  
+
+The midterm is docked 20% per day late up to 4 days. After that, it will no longer be accepted.
+
+The final will not be accepted late.
+
 ## Grade Breakdown
 
 - Attendance/Quiz: 10%
 - Homeworks: 50% (10% each)
 - Midterm: 10%
-- Final Exam/Project: 30%
+- Final Exam: 30%
 
 If you want to discuss a grade, please contact me no later than 1 week after the grades are posted.
 
@@ -142,7 +151,7 @@ classmates. I want you to make friends with each other and discuss the
 material. 
 
 **That said, I expect all assignments (homeworks, tests, paper
-  reviews, presentations, final projects) to be your own original
+  reviews, presentations) to be your own original
   work.**
 
 If you work together with a classmate on an assignment, please mention
