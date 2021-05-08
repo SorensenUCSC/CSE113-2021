@@ -40,7 +40,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
 | Thurs, May 13     | Memory Consistency Models                        | | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916)
-| Tues, May 18    | Barriers                    | Chapter 17 | Class Slides
+| Tues, May 18    | Barriers                    |  | Chapter 17 
 | Thurs, May 20     | Guest Lecture (Hugues Evrard and Ally Donaldson)                               | | Class Slides
 | Tues, May 25    | Forward progress | | Class Slides
 
