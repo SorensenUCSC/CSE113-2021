@@ -23,8 +23,8 @@ _Due: May 6_
 
 ### Module 3: Concurrent Data Structures
 
-_Will be posted by: May 6_ 
-_Due: May 18_
+_Will be posted by: May 7_ 
+_Due: May 19_
 
 ### Module 4: Reasoning about Concurrency
 
@@ -32,7 +32,7 @@ _Will be posted by: May 20_
 _Due: June 1_
 
 
-### Module 5:  GPU Programming
+### Module 5:  Heterogeneous Programming
 
 _Will be posted by: June 4_ 
 _Due: Date of the Final_
