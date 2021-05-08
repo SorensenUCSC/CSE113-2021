@@ -23,7 +23,7 @@ _Due: May 6_
 
 ### Module 3: Concurrent Data Structures
 
-_Will be posted by: May 7_ 
+Homework specification is [here](homeworks/CSE113Spring2021_assignment3.pdf)
 _Due: May 19_
 
 ### Module 4: Reasoning about Concurrency
