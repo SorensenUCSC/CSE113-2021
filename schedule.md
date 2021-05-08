@@ -29,28 +29,29 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Tues, April 27   | Principles of Concurrent Objects    | [slides](lectures/April27.pdf) | Chapter 3
-| Thurs, April 29  | Concurrent Queues                   | [slides](lectures/April29.pdf) | Chapter 10
-| Tues, May 4      | Concurrent Stacks                   | [slides](lectures/May4.pdf)| Chapter 11
-| Thurs, May 6     | Use-case: Load Balacing             | [slides](lectures/May6.pdf) | Class Slides
+| Tues, April 27   | Principles of Concurrent Objects I   | [slides](lectures/April27.pdf) | Chapter 3
+| Thurs, April 29  | Principles of Concurrent Objects II  | [slides](lectures/April29.pdf) | Chapter 3
+| Tues, May 4      | Concurrent Linked-List Set           | [slides](lectures/May4.pdf)| Chapter 10
+| Thurs, May 6     | Concurrent Queues             | [slides](lectures/May6.pdf) | Class Slides
+| Tues, May 11     | Work Stealing         |  | Class Slides
 
 ### Module 4: Reasoning about Concurrency
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Tues, May 11     | Memory Consistency Models                        | | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916)
-| Thurs, May 13    | Fairness and Forward Progress                    | | Class Slides
-| Tues, May 18     | Use-case: Barriers                               | | Chapter 17
-| Thurs, May 20    | Generalizing Atomicity with Transactional Memory | | Chapter 18
+| Thurs, May 13     | Memory Consistency Models                        | | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916)
+| Tues, May 18    | Barriers                    | Chapter 17 | Class Slides
+| Thurs, May 20     | Guest Lecture (Hugues Evrard and Ally Donaldson)                               | | Class Slides
+| Tues, May 25    | Forward progress | | Class Slides
 
 ### Module 5: Advanced Topics
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Tues, May 25     | GPU Programming 2        | | CUDA By Example Chapter 3-4
-| Thurs, May 27    | GPU Programming 1        | | CUDA By Example Chapter 1
-| Tues, June 1     | Reductions and Scans     | | Class Slides
-| Thurs, June 3    | Decoupled Access Execute | | [Decoupled Access/Execute Computer Architectures](https://course.ece.cmu.edu/~ece740/f13/lib/exe/fetch.php?media=p289-smith.pdf)
+| Thurs, May 27     | GPU Programming 2        | | CUDA By Example Chapter 3-4
+| Tues, June 1   | GPU Programming 1        | | CUDA By Example Chapter 1
+| Thurs, June 3     | Reductions and Scans     | | Class Slides
+
 
 ## Final
 
