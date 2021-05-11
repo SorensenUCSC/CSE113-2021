@@ -33,7 +33,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 | Thurs, April 29  | Principles of Concurrent Objects II  | [slides](lectures/April29.pdf) | Chapter 3
 | Tues, May 4      | Concurrent Linked-List Set           | [slides](lectures/May4.pdf)| Chapter 10
 | Thurs, May 6     | Concurrent Queues             | [slides](lectures/May6.pdf) | Class Slides
-| Tues, May 11     | Work Stealing         |  | Class Slides
+| Tues, May 11     | Work Stealing         |  [slides](lectures/May11.pdf) | Class Slides
 
 ### Module 4: Reasoning about Concurrency
 
