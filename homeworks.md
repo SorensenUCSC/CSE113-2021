@@ -25,7 +25,7 @@ _Due: May 6_
 
 Homework specification is [here](homeworks/CSE113Spring2021_assignment3.pdf)
 
-_Due: May 19_
+_Due: May 21_
 
 ### Module 4: Reasoning about Concurrency
 
