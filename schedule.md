@@ -41,7 +41,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 |------------------|----------|--------|----------------
 | Thurs, May 13     | Memory Consistency Models                        | [slides](lectures/May13.pdf) | [You Don’t Know Jack...](https://queue.acm.org/detail.cfm?id=2088916)
 | Tues, May 18    | Barriers                    |  [slides](lectures/May18.pdf)  | Chapter 17 
-| Thurs, May 20     | Guest Lecture by Hugues Evrard (Google) and Alastiar Donaldson (Imperial College London)                               | [Hugues](lectures/HuguesGuestLecture.pdf), [Alastair](lectures/AlastiarGuestLecture.pdf)  | Class Slides
+| Thurs, May 20     | Guest Lecture by Hugues Evrard (Google) and Alastiar Donaldson (Imperial College London)                               | [Hugues](lectures/HuguesGuestLecture.pdf), [Alastair](lectures/AlastairGuestLecture.pdf)  | Class Slides
 | Tues, May 25    | Forward progress | | Class Slides
 
 ### Module 5: Advanced Topics
