@@ -29,8 +29,10 @@ _Due: May 21_
 
 ### Module 4: Reasoning about Concurrency
 
-_Will be posted by: May 20_ 
-_Due: June 1_
+
+Homework specification is [here](homeworks/CSE113Spring2021_assignment4.pdf)
+
+_Due: June 7_
 
 
 ### Module 5:  Heterogeneous Programming
