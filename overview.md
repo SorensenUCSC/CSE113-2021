@@ -119,7 +119,7 @@ There will be two asynchronous tests in this course: a midterm and a final. The
 midterm will be worth as much as a single homework assignment
 (~10%). The final will be worth 30%
 
-You will get the test as pdf worksheet and have 2 days to complete it. I
+You will get the test as pdf worksheet and have 1 days to complete it. I
 will design the tests to take ~120 minutes, a little longer than the time of a class. You
 are free to consult notes, books, or the internet. While the test is active, you are not allowed to discuss the test with another person (either in the class or online). For example, you *can* google concepts that are on the test. You *cannot* post a test question to stackoverflow.
 
