@@ -48,7 +48,7 @@ _Unless explicitly mentioned, Readings will refer to The Art of Multiprocessor P
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Thurs, May 27     | GPU Programming 2        | | CUDA By Example Chapter 3-4
+| Thurs, May 27     | GPU Programming 2        | [slides](lectures/May27.pdf) | CUDA By Example Chapter 3-4
 | Tues, June 1   | GPU Programming 1        | | CUDA By Example Chapter 1
 | Thurs, June 3     | Reductions and Scans     | | Class Slides
 
