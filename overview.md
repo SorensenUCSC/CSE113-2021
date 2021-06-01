@@ -106,7 +106,7 @@ This alias goes to the instructor and the TA. If you email any of us individuall
 
 ## Homework:
 
-There will be one assignment per module, for a total of 5 homeworks.
+There will be one assignment per module (except for the last module), for a total of 4 homeworks.
 
 We will host a docker container that includes the necessary environment (compilers, libraries) for the homeworks. You are free to run this docker from your local machine or from a unviversity machine. We will provide a list of university resources in Canvas.
 
@@ -116,7 +116,7 @@ The homeworks will be posted at least 2 weeks before they are due and can be fou
 ## Tests:
 
 There will be two asynchronous tests in this course: a midterm and a final. The
-midterm will be worth as much as a single homework assignment
+midterm will roughly be worth as much as a single homework assignment
 (~10%). The final will be worth 30%
 
 You will get the test as pdf worksheet and have 1 days to complete it. I
@@ -125,7 +125,7 @@ are free to consult notes, books, or the internet. While the test is active, you
 
 _a note on timing_: my tests are designed to take 120 minutes *if* they were given in-person. In practice, students take much longer on take-home tests because you can spend time validating answers and less time studying before hand. Because of this, many students spend much longer on take-home tests. Please consider this when budgeting time.
 
-Please note our final is scheduled for Wednesday, June 9
+Please note our final is scheduled for Wednesday, June 9 from 4pm to 7pm.
 
 ## Late Policy:
 
@@ -138,7 +138,7 @@ The final will not be accepted late.
 ## Grade Breakdown
 
 - Attendance/Quiz: 10%
-- Homeworks: 50% (10% each)
+- Homeworks: 50% (12.5% each)
 - Midterm: 10%
 - Final Exam: 30%
 
