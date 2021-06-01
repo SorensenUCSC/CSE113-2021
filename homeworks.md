@@ -37,5 +37,4 @@ _Due: June 7_
 
 ### Module 5:  Heterogeneous Programming
 
-_Will be posted by: June 4_ 
-_Due: Date of the Final_
+_canceled_
